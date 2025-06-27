@@ -1,0 +1,5 @@
+Username:LeoReact1996
+ProgettoReact
+
+API KEY:
+719af48b5cd0447b8d070f5916055454
