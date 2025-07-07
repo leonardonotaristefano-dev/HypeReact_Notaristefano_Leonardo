@@ -3,6 +3,7 @@ import { FaHeart, FaRegHeart } from "react-icons/fa";
 import FavoritesContext from "../context/FavoritesContext";
 import { useNotification } from "../context/NotificationContext";
 
+
 export default function ToggleFavorite({ data }) {
   const { favorites, addFavorites, removeFavorite } =
     useContext(FavoritesContext);
@@ -48,3 +49,4 @@ export default function ToggleFavorite({ data }) {
     </div>
   );
 }
+
