@@ -48,7 +48,7 @@ export default function FavoritesProvider({ children }) {
     }
 
     const favoritesChannel = supabase
-      .channel("custom-all-favorites")
+      .channel("favorites")
       .on(
         "postgres_changes",
         { event: "*", schema: "public", table: "favorites" },
@@ -56,9 +56,10 @@ export default function FavoritesProvider({ children }) {
       )
       .subscribe();
 
-    return () => {
-      favoritesChannel.unsubscribe();
-    };
+   return () => {
+     // Unsubscribe from the channel
+     favoritesChannel.unsubscribe();
+   };
   }, [getFavorites, session]);
 
   return (
