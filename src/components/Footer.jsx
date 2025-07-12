@@ -53,7 +53,7 @@ export default function Footer() {
         {/* Colonna 3 - Social */}
         <div>
           <h3 className="text-lg font-semibold mb-3 text-accent">Seguimi su:</h3>
-          <div className="flex space-x-4">
+          <div className="flex space-x-4 ms-4">
             <a
               href="https://www.linkedin.com/in/leonardo-notaristefanodeveloper/"
               target="_blank"
