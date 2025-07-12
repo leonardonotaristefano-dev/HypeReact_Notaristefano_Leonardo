@@ -23,7 +23,7 @@ Ovviamente è possibile trovare il tuo gioco preferito inserendo il suo nome nel
 
 Hai voglia di esplorare? La lista giochi è totalmente navigabile con filtri e ordinamenti per **generi**, **piattaforme**, **sviluppatori**, **distributori** e **tags**.
 
-(assets/Filters.png)
+![Filters](src/assets/Filters.png)
 
 Ogni gioco ha la sua **pagina dedicata** con:
 - Titolo e descrizione completa
@@ -34,12 +34,12 @@ Ogni gioco ha la sua **pagina dedicata** con:
 Un'altra importante funzionalità?
 Ogni gioco ha la **sua chat in tempo reale** in cui puoi commentare, discutere e scambiare opinioni con altri utenti come te! 
 
-(assets/DetailPage.png)
+![DetailPage](src/assets/DetailPage.png)
 
 E non è tutto. Registrandoti su HypeReact, potrai salvare i tuoi giochi preferiti, creare il tuo profilo personale con nome, username e avatar, e modificarlo quando vuoi. 🎮❤️
 
-(assets/Account.png)
-(assets/Favorites.png)
+![Account](src/assets/Account.png)
+![Favorites](src/assets/Favorites.png)
 
 ---
 
@@ -58,7 +58,7 @@ Per farlo ho usato tecnologie e librerie moderne, tra cui:
 
 Hai voglia di seguirmi per eplorare tutti i miei progetti? Dai un'occhiata al footer! Trovi i link di accesso alla mia pagina Linkedin e Github!🚀
 
-(assets/Footer.png)
+![Footer](src/assets/Footer.png)
 
 HypeReact è online e navigabile!
 👉 [**Vai all’app live su Vercel**](https://hype-react-notaristefano-leonardo.vercel.app)
