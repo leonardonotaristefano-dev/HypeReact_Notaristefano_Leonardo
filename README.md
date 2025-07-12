@@ -15,7 +15,7 @@ HypeReact è una web app sviluppata in **React** che mette insieme **oltre 800.0
 Che tu voglia scoprire nuovi titoli, ricordare vecchie glorie o semplicemente perderti tra trailer e descrizioni, HypeReact è la tua nuova enciclopedia videoludica.
 Ovviamente è possibile trovare il tuo gioco preferito inserendo il suo nome nella barra di ricerca!
 
-(assets/Homepage.png)
+(src/assets/Homepage.png)
 
 ---
 
